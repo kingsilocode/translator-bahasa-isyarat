@@ -1,5 +1,5 @@
 # translator-bahasa-isyarat
-Porgram python yang di buat untuk orang yang berkebutuhan khusus menggunakan bahasa isyarat
+Porgram python yang di buat untuk orang yang berkebutuhan khusus menggunakan bahasa isyarat, program ini dibuat untuk mendeteksi pergerakan tangan dan diterjemahkan menjadi bahasa indonesia dan menggunakan TTS 
 > [! Cara penggunaan]
 > Install python versi terbaru dan install pack mediapipe, numpy, gtts, cv2 dan program sudah bisa di jalankan seperti biasa
 >
