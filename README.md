@@ -8,4 +8,4 @@ Jangan lupa follow media sosial aku yak!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiloKusuma)
 [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SiloKusuma1)
-[![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/SiloKusuma)
+[![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@silokusumasukses)
